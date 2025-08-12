@@ -1,18 +1,18 @@
-# 🩺 Medical Chatbot </br>
+# Medical Chatbot </br>
 
-<img width="1847" height="960" alt="image" src="https://github.com/user-attachments/assets/cfd570ab-8fa3-47bf-b002-7d023cbe51d2" />
+<img width="1851" height="958" alt="image" src="https://github.com/user-attachments/assets/31b22253-43d2-426c-9260-9a60ddf75361" />
 
 This project is a medical chatbot that uses custom knowledge base extracted from a PDF (e.g., 71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf). </br>
 It allows users to ask health-related questions and receive accurate, context-aware answers.
 
 ## 🚀 Features
-📄 Custom Knowledge Base – Trained on your medical PDF (e.g., Gale Encyclopedia of Medicine).
+Custom Knowledge Base – Trained on your medical PDF (e.g., Gale Encyclopedia of Medicine).
 
-💬 Interactive Chat UI – Simple and modern web interface.
+Interactive Chat UI – Simple and modern web interface.
 
-☁ Flask Backend – Handles AI requests and PDF-based responses.
+Flask Backend – Handles AI requests and PDF-based responses.
 
-🎨 Light Mode Design – Clean and modern styling with HTML + CSS.
+Light Mode Design – Clean and modern styling with HTML + CSS.
 
 ##  Project Structure
 ├── chatbot.py        # Flask backend for handling chat requests </br>
