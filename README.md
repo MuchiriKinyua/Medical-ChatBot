@@ -24,7 +24,7 @@ It allows users to ask health-related questions and receive accurate, context-aw
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
-git clone https://github.com/muchirikinyua/medical-chatbot.git
+git clone https://github.com/muchirikinyua/medical-chatbot.git </br>
 cd medical-chatbot
 ### 2️⃣ Install Dependencies
 pip install -r requirements.txt
