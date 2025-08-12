@@ -1,4 +1,4 @@
-# 🩺 Medical Chatbot with PDF Knowledge Base </br>
+# 🩺 Medical Chatbot </br>
 
 This project is a medical chatbot that uses custom knowledge base extracted from a PDF (e.g., 71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf). </br>
 It allows users to ask health-related questions and receive accurate, context-aware answers.
