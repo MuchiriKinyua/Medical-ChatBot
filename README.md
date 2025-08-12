@@ -5,7 +5,7 @@
 This project is a medical chatbot that uses custom knowledge base extracted from a PDF (e.g., 71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf). </br>
 It allows users to ask health-related questions and receive accurate, context-aware answers.
 
-## 🚀 Features
+## Features
 Custom Knowledge Base – Trained on your medical PDF (e.g., Gale Encyclopedia of Medicine).
 
 Interactive Chat UI – Simple and modern web interface.
@@ -22,7 +22,7 @@ Light Mode Design – Clean and modern styling with HTML + CSS.
 ├── medical.pdf       # Your medical reference PDF </br>
 └── README.md         # This file
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 ### 1️⃣ Clone the Repository
 git clone https://github.com/muchirikinyua/medical-chatbot.git </br>
 cd medical-chatbot
@@ -38,7 +38,7 @@ Update chatbot.py to load your file name.
 python chatbot.py
 ### 5️⃣ Open in Browser
 http://127.0.0.1:5000
-### 🛠 Requirements
+### Requirements
 Python 3.8+
 
 Flask
