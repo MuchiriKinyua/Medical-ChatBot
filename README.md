@@ -1,5 +1,7 @@
 # 🩺 Medical Chatbot </br>
 
+<img width="1847" height="960" alt="image" src="https://github.com/user-attachments/assets/cfd570ab-8fa3-47bf-b002-7d023cbe51d2" />
+
 This project is a medical chatbot that uses custom knowledge base extracted from a PDF (e.g., 71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf). </br>
 It allows users to ask health-related questions and receive accurate, context-aware answers.
 
