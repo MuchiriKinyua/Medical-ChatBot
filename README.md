@@ -6,7 +6,7 @@ This project is a medical chatbot that uses custom knowledge base extracted from
 It allows users to ask health-related questions and receive accurate, context-aware answers.
 
 ## Features
-Custom Knowledge Base – Trained on your medical PDF (e.g., Gale Encyclopedia of Medicine).
+Custom Knowledge Base – Trained on a medical PDF (e.g., Gale Encyclopedia of Medicine).
 
 Interactive Chat UI – Simple and modern web interface.
 
@@ -44,6 +44,3 @@ Python 3.8+
 Flask
 
 PyPDF2 or pdfplumber
-
-OpenAI API key (if using GPT)
-
